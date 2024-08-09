@@ -6,7 +6,6 @@ A basic JavaScript implementation of the classic Simon game, where players must 
 - [Introduction](#introduction)
 - [How to Play](#how-to-play)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 
 
@@ -23,12 +22,6 @@ The Simon Game is a memory game that challenges players to recall and repeat a s
 - Interactive UI with responsive design.
 - Random sequence generation for each game.
 - Score tracking to see how long you can keep up!
-
-## Screenshots
-
-### Game Start Screen
-![Game Start Screen](simongamestarting.png)
-
 
 ## Technologies Used
 - HTML5
